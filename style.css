@@ -12,6 +12,8 @@ body {
 
 #hero img {
   margin-bottom: 72px;
+  
+  animation: downtop 700ms;
 }
 
 h1 {
@@ -21,6 +23,8 @@ h1 {
   font-weight: normal;
 
   margin-bottom: 32px;
+  
+  animation: downtop 700ms;
 }
 
 h1 span {
@@ -36,6 +40,8 @@ p, #footer {
 
   font-size: 14px;
   line-height: 28px;
+  
+  animation: downtop 700ms;
 }
 
 #footer a + a {
@@ -55,4 +61,17 @@ p, #footer {
   position: fixed;
   bottom: 0px;
   right: 0px;
+}
+
+/* ANIMAÇÕES */
+@media downtop {
+  0% {
+    opacity: 0;
+    transform: translateY(150px);
+  }
+  
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
