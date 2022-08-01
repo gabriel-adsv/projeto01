@@ -1,4 +1,4 @@
-# projeto01
+# Stage 02 - Projeto 01
 Atividade realizada no Stage 01 do Explorer, curso de Desenvolvimento Web Full-stack da Rocketseat.
 
 Neste projeto foram aplicados conceitos básicos de html e css, como:
