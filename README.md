@@ -6,3 +6,6 @@ Neste projeto foram aplicados conceitos básicos de html e css, como:
 - Posição dos elementos na tela
 - Aplicação de fontes customizadas
 - Alinhamento de textos e elementos
+
+#01/08/22
+- Implementada animações
